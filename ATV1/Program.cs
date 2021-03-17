@@ -13,7 +13,7 @@ namespace ATV1
             stopwatch.Start();
             if (contador==0){
 
-            while( contador<1000 )
+            while( contador<1000 )//O(n)
             {
 
                 Console.WriteLine("Rodando o while com 1000 iterações");
@@ -23,7 +23,7 @@ namespace ATV1
             
             int cont = 0;
             if (cont==0){
-            while(cont<5000)
+            while(cont<5000)//O(n)
             {
                 Console.WriteLine("Rodando o while com 5000 iterações");
                 cont=cont+1;
@@ -34,33 +34,33 @@ namespace ATV1
             do{
                 Console.WriteLine("Rodando o do while com 1000 iterações");
                 cont1 = cont1 + 1;
-            }while(cont1<1000);
+            }while(cont1<1000);//O(n)
             }else{cont1=0;}
             int cont2=0;
             if(cont2==0){
             do{
                 Console.WriteLine("Rodando o do while com 5000 iterações");
                 cont2 = cont2 + 1;
-            }while(cont2<5000);
+            }while(cont2<5000);//O(n)
             }else{cont2=0;}
             int[] v1 = new int[1000] ; int[] v2 = new int[5000];
             
-            for(int cont3=0; cont3<1000; cont3++)
+            for(int cont3=0; cont3<1000; cont3++)//O(n)
             {
                 Console.WriteLine("Rodando o for com 1000 iterações");
                 v1[cont3]=cont3; 
             }
-            for(int cont4=0; cont4<5000; cont4++)
+            for(int cont4=0; cont4<5000; cont4++)//O(n)
             {
                 Console.WriteLine("Rodando o for com 5000 iterações");
                 v2[cont4]=cont4;
             }
             
             foreach(int numero in v1){
-               Console.WriteLine("Rodando o foreach com 1000 iterações"); 
+               Console.WriteLine("Rodando o foreach com 1000 iterações"); //O(n)
             }
             foreach(int numero in v2){
-               Console.WriteLine("Rodando o foreach com 5000 iterações"); 
+               Console.WriteLine("Rodando o foreach com 5000 iterações"); //O(n)
             }
 
              int[] OrdenacaoquickSort(int[] vetor){
@@ -71,7 +71,7 @@ namespace ATV1
             else                          Console.WriteLine("\nVetor2 Ordenado ");
             return vetor;
         }
-        static void quickSort(int[] vetor, int inicio, int fim){
+        static void quickSort(int[] vetor, int inicio, int fim){//O(nlogn)
             if (inicio < fim){
                 int p = vetor[inicio];
                 int i = inicio + 1;
@@ -100,7 +100,7 @@ namespace ATV1
         }
         OrdenacaoquickSort(v1);
 
-         int[] buscabin (int[] vetor){
+         int[] buscabin (int[] vetor){//O(log n)
             int x = 10;
             int sup = vetor.Length - 1;
             busca_binaria(vetor, x, sup);
