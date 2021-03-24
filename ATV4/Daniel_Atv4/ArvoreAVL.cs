@@ -1,6 +1,6 @@
 using System;
 
-namespace Daniel_Atv4
+namespace EDA_Atv4
 {
     public class ArvoreAVL : ArvoreBinaria
     {
