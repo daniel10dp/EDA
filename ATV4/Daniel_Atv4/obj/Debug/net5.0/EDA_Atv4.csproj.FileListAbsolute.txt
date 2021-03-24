@@ -1,0 +1,33 @@
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.exe
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.deps.json
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.runtimeconfig.json
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.runtimeconfig.dev.json
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\bin\Debug\net5.0\ref\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.pdb
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.csprojAssemblyReference.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.AssemblyInfoInputs.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.AssemblyInfo.cs
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.csproj.CoreCompileInputs.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\ref\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.pdb
+C:\Users\ibyte\Desktop\EDA_2020.2\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.genruntimeconfig.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.exe
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.deps.json
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.runtimeconfig.json
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.runtimeconfig.dev.json
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\bin\Debug\net5.0\ref\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\bin\Debug\net5.0\EDA_Atv4.pdb
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.csprojAssemblyReference.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.AssemblyInfoInputs.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.AssemblyInfo.cs
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.csproj.CoreCompileInputs.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\ref\EDA_Atv4.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.pdb
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\Atv_Ass04\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.genruntimeconfig.cache
+C:\Users\danpo\Desktop\EDA_04-master\EDA_Atv4\obj\Debug\net5.0\EDA_Atv4.pdb
