@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Daniel_Atv4
+namespace EDA_Atv4
 {
     public class ArvoreBinaria
     {
