@@ -1,0 +1,13 @@
+D:\Trabalhos\EDA\ATV3\bin\Debug\netcoreapp3.1\ATV3.exe
+D:\Trabalhos\EDA\ATV3\bin\Debug\netcoreapp3.1\ATV3.deps.json
+D:\Trabalhos\EDA\ATV3\bin\Debug\netcoreapp3.1\ATV3.runtimeconfig.json
+D:\Trabalhos\EDA\ATV3\bin\Debug\netcoreapp3.1\ATV3.runtimeconfig.dev.json
+D:\Trabalhos\EDA\ATV3\bin\Debug\netcoreapp3.1\ATV3.dll
+D:\Trabalhos\EDA\ATV3\bin\Debug\netcoreapp3.1\ATV3.pdb
+D:\Trabalhos\EDA\ATV3\obj\Debug\netcoreapp3.1\ATV3.csprojAssemblyReference.cache
+D:\Trabalhos\EDA\ATV3\obj\Debug\netcoreapp3.1\ATV3.AssemblyInfoInputs.cache
+D:\Trabalhos\EDA\ATV3\obj\Debug\netcoreapp3.1\ATV3.AssemblyInfo.cs
+D:\Trabalhos\EDA\ATV3\obj\Debug\netcoreapp3.1\ATV3.csproj.CoreCompileInputs.cache
+D:\Trabalhos\EDA\ATV3\obj\Debug\netcoreapp3.1\ATV3.dll
+D:\Trabalhos\EDA\ATV3\obj\Debug\netcoreapp3.1\ATV3.pdb
+D:\Trabalhos\EDA\ATV3\obj\Debug\netcoreapp3.1\ATV3.genruntimeconfig.cache
