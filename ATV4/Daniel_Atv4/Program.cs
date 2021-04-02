@@ -18,17 +18,15 @@ namespace EDA_Atv4
             arvoreBIN.Inserir(10);   
             arvoreBIN.Inserir(2);  
             arvoreBIN.Inserir(54);  
-            arvoreBIN.Inserir(46);  
-            arvoreBIN.Inserir(58);   
             arvoreBIN.Inserir(489);   
             arvoreBIN.Inserir(20); 
             arvoreBIN.Exibir();     
 
             arvoreBIN.Remover(489);  
-			arvoreBIN.Exibir();     
+	    arvoreBIN.Exibir();     
 
-            // Exprexão de Complexidade Caso Médio: O(n)+ O(log n)
-           // Exprexão de Complexidade Pior Caso: O(n)
+            
+           // Exprexão de Complexidade: O(n)
 
             Console.WriteLine("Árvore AVL:");
 
@@ -42,12 +40,11 @@ namespace EDA_Atv4
             arvoreAVL.Inserir(86);      
             arvoreAVL.Exibir();        
 
-            arvoreAVL.Remover(87);      
-            arvoreAVL.Remover(12);      
+            arvoreAVL.Remover(86);      
             arvoreAVL.Exibir();         
 
-            // Exprexão de Complexidade Caso Médio: O(n)+ O(log n)
-             // Exprexão de Complexidade Pior Caso: O(n)+ O(log n)
+            // Exprexão de Complexidade: O(log n)
+             
 
 
         }
