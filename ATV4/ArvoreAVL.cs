@@ -25,6 +25,11 @@ namespace ATV4
 			this.Exibir(raiz, 0);
 			Console.WriteLine();
 		}
+		public void BuscaAVL(int k){
+			int cont = 0;
+			int busca = BuscaAVL(raiz, k, ref cont);
+			Console.WriteLine("\nValor buscado na árvore AVL: {0} | Contagens: {1}", busca, cont);
+		}
 		private void Exibir(No no, int nivel)
 		{
 			int i;
