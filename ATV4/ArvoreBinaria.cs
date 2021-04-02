@@ -11,6 +11,18 @@ namespace ATV4
 		{
 			this.raiz = null;
 		}
+	   	 public void BuscaBinaria(int k){
+			int cont = 0;
+			int busca = BuscaBinaria(raiz, k, ref cont);
+			Console.WriteLine("\nValor buscado na árvore binária: {0} | Contagens: {1}", busca, cont);
+		}
+		private int BuscaBinaria(No no, int k, ref int cont){
+			cont++;
+    		if (no.info == k)
+       			return no.info;
+    		if (no.info > k) return BuscaBinaria(no.noEsquerdo, k, ref cont);
+    		else 			 return BuscaBinaria(no.noDireito, k, ref cont);
+		}
 
 		virtual public void Exibir()
 		{
