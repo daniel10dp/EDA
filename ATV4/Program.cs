@@ -26,7 +26,7 @@ namespace ATV4
 	    arvoreBIN.Exibir();     
 
             
-           // Exprexão de Complexidade: O(n)
+          
 
             Console.WriteLine("Árvore AVL:");
 
@@ -35,15 +35,18 @@ namespace ATV4
             arvoreAVL.Inserir(123);      
             arvoreAVL.Exibir();         
 
-            arvoreAVL.Inserir(52);    
+            arvoreAVL.Inserir(54);    
             arvoreAVL.Inserir(25);      
             arvoreAVL.Inserir(86);      
             arvoreAVL.Exibir();        
 
             arvoreAVL.Remover(86);      
-            arvoreAVL.Exibir();         
+            arvoreAVL.Exibir();      ]
+		
+	    arvoreBIN.BuscaBinaria(54);
+            arvoreAVL.BuscaAVL(54);
 
-            // Exprexão de Complexidade: O(log n)
+            
              
 
 
