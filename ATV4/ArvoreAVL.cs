@@ -30,6 +30,13 @@ namespace ATV4
 			int busca = BuscaAVL(raiz, k, ref cont);
 			Console.WriteLine("\nValor buscado na árvore AVL: {0} | Contagens: {1}", busca, cont);
 		}
+		private int BuscaAVL(No no, int k, ref int cont){
+			cont++;
+    		if (no.info == k)
+       			return no.info;
+    		if (no.info > k) return BuscaAVL(no.noEsquerdo, k, ref cont);
+    		else 			 return BuscaAVL(no.noDireito, k, ref cont);
+		}
 		private void Exibir(No no, int nivel)
 		{
 			int i;
